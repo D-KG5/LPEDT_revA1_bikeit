@@ -74,23 +74,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QYDSUTOA
 
 [Document3]
-DocumentPath=LPEDT_revA1_bikeit_POWER_MECH.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YSGJXBBO
-
-[Document4]
 DocumentPath=LPEDT_revA1_bikeit_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVMRJZGV
 
-[Document5]
+[Document4]
 DocumentPath=LPEDT_revA1_bikeit_MCU_RADIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKFXLTXC
 
-[Document6]
+[Document5]
 DocumentPath=LPEDT_revA1_bikeit_MCU_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSSYHPPM
 
-[Document7]
+[Document6]
 DocumentPath=LPEDT_revA1_bikeit_DEBUG_MECH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHBUMKQP
 
-[Document8]
+[Document7]
 DocumentPath=LPEDT_revA1_bikeit_MCU_PINS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMVYJMKS
 
-[Document9]
+[Document8]
 DocumentPath=LPEDT_revA1_bikeit_GPS_MECH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQLLXLOD
 
-[Document10]
+[Document9]
 DocumentPath=LPEDT_revA1_bikeit_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BECMXZAR
 
-[Document11]
+[Document10]
 DocumentPath=LPEDT_revA1_bikeit_DISPLAY_MECH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GACJAKRH
 
-[Document12]
+[Document11]
 DocumentPath=LPEDT_revA1_bikeit_DISPLAY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +345,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=wepa BW
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
