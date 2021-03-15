@@ -24,7 +24,6 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
-AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -41,23 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=LPEDT_revA1_bikeit_rev_01.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AYTVCGIA
-
-[Document2]
 DocumentPath=LPEDT_revA1_bikeit_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +56,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVMRJZGV
 
-[Document3]
+[Document2]
 DocumentPath=LPEDT_revA1_bikeit_MCU_POWER_RESET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSSYHPPM
 
-[Document4]
+[Document3]
 DocumentPath=LPEDT_revA1_bikeit_MCU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMVYJMKS
 
-[Document5]
+[Document4]
 DocumentPath=System Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +226,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=wepa BW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
